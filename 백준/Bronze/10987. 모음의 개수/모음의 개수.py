@@ -1,0 +1,7 @@
+N = input()
+M1 = N.count('a')
+M2 = N.count('e')
+M3 = N.count('i')
+M4 = N.count('o')
+M5 = N.count('u')
+print(M1+M2+M3+M4+M5)
