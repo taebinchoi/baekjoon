@@ -2,7 +2,7 @@
 This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
 
 ### 실수, 누락 방지 팁
-1157번 : 집합을 뜻하는 set()이 중복을 제거하는 용도로 사용되기도 한다<br/>
+1157번 집합을 뜻하는 set(), 중복을 제거하는 용도로 사용<br/>
 1181번 단어 정렬 - set, sort(set=len), 길이순과 알파벳순 정렬의 중첩 알아두기<br/>
 1252번 n진수를 10진수로 : int(string, base)  , 10진수를 n진수로(+ 앞의 0b, 0x 없애기) : (bin/oct/hex()[2:])<br/>
 1264번 복습 : 조건을 만족하는 ~의 개수를 어떻게 출력해낼 것인지 -> list 선언 + while문 !! <br/>
