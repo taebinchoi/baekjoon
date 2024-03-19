@@ -1,0 +1,6 @@
+N = int(input())
+M = list(str(input()))
+A = M.count('j')
+B = M.count('o')
+C = M.count('i')
+print(A*2+B+C*2)
